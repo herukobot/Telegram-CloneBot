@@ -3,14 +3,14 @@ import json
 from distutils.util import strtobool as stb
 
 # --------------------------------------
-BOT_TOKEN = "1892274010:AAEUtsr-nqRI0QgOLMb-SjfhonAJvxHwfYM"
+BOT_TOKEN = "1725526313:AAFMypN1MSJLOarXek60WNq1M2A9Sxr0AhE"
 GDRIVE_FOLDER_ID = "0ANZ7G_KUgifSUk9PVA"
 # Default folder id.
-OWNER_ID = 708537252
+OWNER_ID = 1770270950
 # Example: OWNER_ID = 619418070
 AUTHORISED_USERS = [123,456,789,300466130]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
-INDEX_URL = ""
+INDEX_URL = "https://index.film-show.workers.dev/1:"
 IS_TEAM_DRIVE = True
 USE_SERVICE_ACCOUNTS = False
 # --------------------------------------
